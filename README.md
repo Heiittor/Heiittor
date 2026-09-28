@@ -42,6 +42,15 @@ Estudante de **Ciência da Computação** no **IESB**, com conclusão prevista p
 | **Controle de Estoque** | API REST com CRUD de produtos | Node.js, Express |
 
 <!-- ADICIONE o link do repositório em "Gestor de Hábitos" e "Controle de Estoque" quando estiverem no GitHub -->
+<!-- ADICIONE o link do repositório em "Gestor de Hábitos" e "Controle de Estoque" quando estiverem no GitHub -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Heiittor/Heiittor/snake-output/snake.svg" alt="Cobrinha nas contribuições" />
+</div>
+
+---
+
+### Contato
 
 ---
 
