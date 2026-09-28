@@ -1,79 +1,45 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b1f24,100:2d333b&height=130&section=header&text=Heitor%20Ribeiro&fontColor=E6D5B8&fontSize=40&fontAlignY=45" alt="Heitor Ribeiro" />
-</div>
+<!-- Confira os itens marcados com [colchetes] e os comentários "CONFIRA" antes de publicar -->
+<!-- Este README precisa da pasta assets/ (só o arquivo skills.svg) no mesmo repositório Heiittor/Heiittor -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Heitor%20Ribeiro&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&color=0:0D1B2A,100:1B3A5C" width="100%" alt="Heitor Ribeiro" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=C9A96E&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IESB;C%C3%B3digo+que+resolve+problema+real;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3D9DF3&center=true&vCenter=true&width=680&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IESB;heitor-ribeiro-010a90395+no+LinkedIn;heitorcarreira8%40gmail.com;github.com%2FHeiittor;Bras%C3%ADlia+%2C+DF" alt="Typing SVG" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/heitor-ribeiro-010a90395/"><img src="https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" /></a>
+  <a href="mailto:heitorcarreira8@gmail.com"><img src="https://img.shields.io/badge/E--mail-1B3A5C?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="42" /></a>
+  <a href="https://github.com/Heiittor"><img src="https://img.shields.io/badge/GitHub-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="42" /></a>
+</p>
 
 ### Sobre
 
 Estudante de **Ciência da Computação** no **IESB**, com conclusão prevista para 2027, em Brasília. Meu foco é construir aplicações completas, do banco de dados à interface, com código organizado e que funcione de verdade.
 
-- Catálogo de livros em **Laravel 12** com **Docker** e MySQL, incluindo testes manuais de segurança contra XSS, SQL Injection e CSRF
-- App mobile de hábitos saudáveis com **React Native** e API REST em **Node.js** e **Express**
-- Cursos de **Java e Spring Boot** (45h) e de **PHP e Laravel** (20h)
-- Atualmente estudando: **[o que você está estudando agora]**
+- 🔭 Catálogo de livros em **Laravel 12** com **Docker** e MySQL, com testes manuais de segurança contra XSS, SQL Injection e CSRF
+- 📱 App mobile de hábitos saudáveis com **React Native** e API REST em **Node.js** e **Express**
+- 🎓 Cursos de **Java e Spring Boot** (45h) e de **PHP e Laravel** (20h)
+- 💡 Atualmente estudando: **[o que você está estudando agora]**
 
 ---
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ### Tecnologias
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Linguagens, frameworks, bancos de dados e ferramentas que uso" />
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Heiittor&color=1B3A5C&style=for-the-badge&logo=github&logoColor=BFE0FF" alt="Overview" />
+  <img src="https://komarev.com/ghpvc/?username=Heiittor&color=1B3A5C&style=for-the-badge&label=Visitantes&labelColor=0D1B2A" alt="Visitantes" />
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
+---
 
 ### Projetos
 
@@ -86,26 +52,14 @@ Estudante de **Ciência da Computação** no **IESB**, com conclusão prevista p
 | **Controle de Estoque** | API REST com CRUD de produtos | Node.js, Express |
 
 <!-- ADICIONE o link do repositório em "Gestor de Hábitos" e "Controle de Estoque" quando estiverem no GitHub -->
-<!-- ADICIONE o link do repositório em "Gestor de Hábitos" e "Controle de Estoque" quando estiverem no GitHub -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Heiittor/Heiittor/snake-output/snake.svg" alt="Cobrinha nas contribuições" />
-</div>
+<!-- CONFIRA: Gestor-Financeiro e Sistema-de-Clientes- apontam para os repositórios que eu supus -->
 
 ---
 
-### Contato
-
-
-
-<h4 align="center">Aberto a novas oportunidades e conversas.</h4>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/heitor-ribeiro-010a90395/"><img src="https://img.shields.io/badge/LinkedIn-1b1f24?style=for-the-badge&logo=linkedin&logoColor=C9A96E" alt="LinkedIn" height="46" /></a>
-  <a href="mailto:heitorcarreira8@gmail.com"><img src="https://img.shields.io/badge/E--mail-1b1f24?style=for-the-badge&logo=gmail&logoColor=C9A96E" alt="E-mail" height="46" /></a>
-  <a href="https://github.com/Heiittor"><img src="https://img.shields.io/badge/GitHub-1b1f24?style=for-the-badge&logo=github&logoColor=C9A96E" alt="GitHub" height="46" /></a>
+  <img src="https://raw.githubusercontent.com/Heiittor/Heiittor/snake-output/snake.svg" width="100%" alt="Cobrinha de contribuições" />
 </p>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0D1B2A,100:1B3A5C" width="100%" alt="Rodapé" />
+</p>
