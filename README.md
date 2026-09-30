@@ -24,7 +24,7 @@ Estudante de **Ciência da Computação** no **IESB**, com conclusão prevista p
 - 🔭 Catálogo de livros em **Laravel 12** com **Docker** e MySQL, com testes manuais de segurança contra XSS, SQL Injection e CSRF
 - 📱 App mobile de hábitos saudáveis com **React Native** e API REST em **Node.js** e **Express**
 - 🎓 Cursos de **Java e Spring Boot** (45h) e de **PHP e Laravel** (20h)
-- 💡 Atualmente estudando: **[o que você está estudando agora]**
+- 💡 Atualmente estudando: **[Java, Docker, PHP]**
 
 ---
 
