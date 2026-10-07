@@ -25,7 +25,7 @@ Estudante de **Ciência da Computação no IESB**, 6º semestre, com conclusão 
 - 📚 Catálogo de livros em **Laravel 12**, **Docker** e MySQL, com validações e testes manuais de segurança
 - 📱 Aplicativo mobile com **React Native (Expo)** e API REST em **Node.js + Express**
 - 🎓 Curso de **Java e Spring Boot (45h)** e **PHP e Laravel (20h)**
-- 💡 Atualmente estudando: **Java, Spring Boot, Docker, PostgreSQL, PHP e Laravel**
+- 💡 Atualmente estudando: **Java, Spring Boot, Docker, PostgreSQL, PHP e Laravel**, com foco em **boas práticas de engenharia de software e modelagem**, aplicando **DDD, SOLID e Clean Code**.
 
 ---
 
