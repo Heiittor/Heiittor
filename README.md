@@ -19,15 +19,17 @@
 
 ### Sobre
 
-Estudante de **Ciência da Computação no IESB**, 6º semestre, com conclusão prevista para 2027, em Brasília. Foco em desenvolvimento **backend com PHP, Laravel, Java e Spring**, sem deixar de lado a construção de aplicações full-stack, buscando escrever código organizado, seguro e alinhado a boas práticas.
+Estudante de **Ciência da Computação no IESB**, 6º semestre, com conclusão prevista para 2027, em Brasília. Foco em desenvolvimento **backend com Java, Spring, PHP e Laravel**, sem deixar de lado a construção de aplicações full-stack, buscando escrever código organizado, seguro e alinhado a boas práticas.
 
-- 💰 **Projeto em andamento:** **Sistema de Controle Financeiro** com **Java 24, Spring Boot, PostgreSQL, JPA/Hibernate, Flyway e Docker**, aplicando **DDD, arquitetura em camadas, SOLID e Clean Code**
+- 💰**Sistema de Controle Financeiro**, API REST com **Java 24, Spring Boot 4, Spring Security, JWT, PostgreSQL, JPA/Hibernate, Flyway e Docker**, aplicando **DDD, arquitetura em camadas, SOLID e Clean Code**, com **69 testes** (Testcontainers) e CI no **GitHub Actions**
 - 📚 Catálogo de livros em **Laravel 12**, **Docker** e MySQL, com validações e testes manuais de segurança
 - 📱 Aplicativo mobile com **React Native (Expo)** e API REST em **Node.js + Express**
 - 🎓 Curso de **Java e Spring Boot (45h)** e **PHP e Laravel (20h)**
 - 💡 Atualmente estudando: **Java, Spring Boot, Docker, PostgreSQL, PHP e Laravel**, com foco em **boas práticas de engenharia de software e modelagem**, aplicando **DDD, SOLID e Clean Code**.
 
 ---
+
+
 
 ### Tecnologias
 
